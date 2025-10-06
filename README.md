@@ -5,7 +5,7 @@ Python-скрипт для отправки ETH в сети Base.
 ребуются библиотеки web3.py и requests. 
 Настройте RPC-URL, газ и файлы перед запуском.
 
-Установка:Установите Python 3.6+ и библиотеки: pip install web3 requests
+Установка:Установите Python 3.6+ и библиотеки: pip install web3 requests.
 
 
 Запустите: python main.py 
